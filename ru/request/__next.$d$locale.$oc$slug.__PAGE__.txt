@@ -1,0 +1,39 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/27gjg8e11zukd.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+5:"/_next/static/chunks/2n5qeheznvl4u.js"
+6:"/_next/static/chunks/06s3ql-4im_nc.js"
+7:"/_next/static/chunks/3lsd7m509gksp.js"
+8:I[22016,["$5","$6","$7"],""]
+d:I[97856,["$5","$6","$7"],"RequestProvider"]
+e:I[4121,["$5","$6","$7"],"Header"]
+f:I[4121,["$5","$6","$7"],"LanguageSwitch"]
+16:"$Sreact.suspense"
+17:I[3546,["$5","$6","$7"],"RequestForm"]
+18:I[97367,["$2"],"OutletBoundary"]
+1b:"ViewportBoundary"
+1c:I[97367,["$2"],"$1b"]
+1d:"MetadataBoundary"
+1e:I[97367,["$2"],"$1d"]
+:HL["/_next/static/chunks/19h1hva0hnp10.css","style"]
+:HL["/_next/static/chunks/19qpcob00p0dp.css","style"]
+a:X
+a:C
+b:X
+14:["$","section",null,{"className":"notice no-script-notice","role":"status","children":[["$","p",null,{"children":"Для заполнения демонстрационной формы требуется JavaScript. Сейчас ввод и отправка формы недоступны. Опубликованные контакты доступны на отдельной странице; демонстрационный сайт не отправляет заявки."}],"$L15","$undefined"]}]
+13:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"container service-main request-main","children":[["$","header",null,{"className":"page-heading","children":["$","div",null,{"children":[["$","span",null,{"className":"eyebrow accent","children":"LOCAL DEMO"}],["$","h1",null,{"children":"Расскажите о вашей задаче"}],["$","p",null,{"className":"lead","children":"Используйте тестовые данные. Черновик и файлы остаются только в памяти этой вкладки; обновление страницы очищает их."}]]}]}],["$","noscript",null,{"children":"$14"}],["$","$16",null,{"children":["$","$L17",null,{"locale":"ru"}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/3lsd7m509gksp.js","async":true}]],["$","$L18",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}],"p":"$@1a","v":null,"s":"$b"}}]]
+11:[["children",{"s":{"n":"slug","t":"oc","k":"request","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@12","v":"$a","s":"$b"},"c":"$Q13"}]]
+c:[["children",{"s":{"n":"locale","t":"d","k":"ru","s":[]},"h":196720,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/19h1hva0hnp10.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/19qpcob00p0dp.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2n5qeheznvl4u.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/06s3ql-4im_nc.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":["$","$Ld",null,{"children":[["$","$Le",null,{"locale":"ru","logo":"/media/originals/logo-original.png"}],["$","div",null,{"className":"demo-ribbon","children":["$","div",null,{"className":"container","children":[["$","span",null,{"className":"status-dot"}],"Независимая концепция · демонстрационная версия",["$","span",null,{"className":"ribbon-detail","children":[" · ","Запросы не отправляются"]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"container","children":[["$","div",null,{"className":"footer-main","children":[["$","div",null,{"children":[["$","$L8",null,{"className":"footer-wordmark","href":"/ru/","children":["$","img",null,{"className":"footer-logo","src":"/media/originals/logo-original.png","alt":"ТехСнаб — гидравлические системы","width":300,"height":100,"loading":"lazy"}]}],["$","p",null,{"className":"footer-demo","children":"Демонстрационный сайт. Форма готовит запрос только в этой вкладке и не отправляет данные компании."}]]}],["$","div",null,{"className":"footer-links","children":[["$","$L8","/services/",{"href":"/ru/services/","children":"Услуги"}],["$","$L8","/catalog/",{"href":"/ru/catalog/","children":"Комплектующие"}],["$","$L8","/projects/",{"href":"/ru/projects/","children":"Проекты"}],["$","$L8","/production/",{"href":"/ru/production/","children":"Производство"}],["$","$L8","/contacts/",{"href":"/ru/contacts/","children":"Контакты"}]]}],["$","div",null,{"className":"footer-links","children":[["$","$L8","/company/",{"href":"/ru/company/","children":"Компания"}],["$","$L8","/documents/",{"href":"/ru/documents/","children":"Документы"}],["$","$L8","/technical/",{"href":"/ru/technical/","children":"Справочник"}],["$","$L8","/news/",{"href":"/ru/news/","children":"Новости"}],["$","$L8","/terms/",{"href":"/ru/terms/","children":"Правила работы"}]]}],["$","div",null,{"className":"footer-contact","children":[["$","a",null,{"href":"tel:+73433710655","children":"+7 (343) 371-06-55"}],["$","a",null,{"href":"mailto:info@hydro-ts.ru","children":"info@hydro-ts.ru"}],["$","p",null,{"children":"Екатеринбург, ул. Совхозная, д. 20"}],["$","$Lf",null,{"locale":"ru"}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","span",null,{"children":"Независимая концепция · демонстрационная версия"}],["$","span",null,{"children":"Материалы: hydro-ts.ru · неофициальное предложение"}]]}]]}]}]]}]}]}]]}],"p":"$@10","v":null,"s":"$b"},"c":"$Q11"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","main",null,{"className":"entry-page","children":[["$","span",null,{"className":"eyebrow accent","children":"404 · LOCAL DEMO"}],["$","h1",null,{"children":["Страница не найдена",["$","br",null,{}],["$","span",null,{"lang":"en","children":"Page not found"}]]}],["$","p",null,{"children":["Выберите язык и найдите нужный раздел.",["$","br",null,{}],["$","span",null,{"lang":"en","children":"Choose a language and find the section you need."}]]}],["$","div",null,{"className":"button-row","children":[["$","$L8",null,{"className":"button","href":"/ru/","children":"Русский →"}],["$","$L8",null,{"className":"button outline","href":"/en/","children":"English →"}]]}]]}],[]]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1e",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$16",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Подготовить запрос · ТехСнаб"}],["$","meta","1",{"name":"description","content":"Локальная демонстрация без отправки данных."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@1f","v":null,"s":"$b"}},"a":"$@20","u":"$@21","b":"_p-bxeSt3cFebr0fldOeX"}
+15:["$","div",null,{"className":"no-script-links","children":[["$","a",null,{"href":"/ru/contacts/","children":["Опубликованные контакты"," →"]}],["$","a",null,{"href":"/ru/catalog/","children":["Комплектующие"," →"]}],["$","a",null,{"href":"/ru/documents/","children":["Документы"," →"]}],"$undefined"]}]
+19:null
+b:300
+21:true
+b:C
+20:0
+12:"$undefined"
+10:"$undefined"
+9:"$undefined"
+1f:"$undefined"
+1a:"$undefined"

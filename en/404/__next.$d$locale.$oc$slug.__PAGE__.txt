@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/27gjg8e11zukd.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+5:"/_next/static/chunks/2n5qeheznvl4u.js"
+6:"/_next/static/chunks/06s3ql-4im_nc.js"
+7:"/_next/static/chunks/3lsd7m509gksp.js"
+8:I[22016,["$5","$6","$7"],""]
+d:I[97856,["$5","$6","$7"],"RequestProvider"]
+e:I[4121,["$5","$6","$7"],"Header"]
+f:I[4121,["$5","$6","$7"],"LanguageSwitch"]
+14:I[97367,["$2"],"OutletBoundary"]
+15:"$Sreact.suspense"
+18:"ViewportBoundary"
+19:I[97367,["$2"],"$18"]
+1a:"MetadataBoundary"
+1b:I[97367,["$2"],"$1a"]
+:HL["/_next/static/chunks/19h1hva0hnp10.css","style"]
+:HL["/_next/static/chunks/19qpcob00p0dp.css","style"]
+a:X
+a:C
+b:X
+13:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"container not-found","children":[["$","span",null,{"className":"eyebrow accent","children":"404"}],["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"lead","children":"Check the address or find the material in the catalogue and search."}],["$","div",null,{"className":"button-row","children":[["$","$L8",null,{"className":"button","href":"/en/","children":["Home"," →"]}],["$","$L8",null,{"className":"button outline","href":"/en/catalog/","children":"Components"}],["$","$L8",null,{"className":"button outline","href":"/en/search/","children":"Search"}]]}],["$","$Lf",null,{"locale":"en"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/3lsd7m509gksp.js","async":true}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":"$@17","v":null,"s":"$b"}}]]
+11:[["children",{"s":{"n":"slug","t":"oc","k":"404","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@12","v":"$a","s":"$b"},"c":"$Q13"}]]
+c:[["children",{"s":{"n":"locale","t":"d","k":"en","s":[]},"h":196720,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/19h1hva0hnp10.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/19qpcob00p0dp.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2n5qeheznvl4u.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/06s3ql-4im_nc.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$Ld",null,{"children":[["$","$Le",null,{"locale":"en","logo":"/media/originals/logo-original.png"}],["$","div",null,{"className":"demo-ribbon","children":["$","div",null,{"className":"container","children":[["$","span",null,{"className":"status-dot"}],"Independent concept · demonstration website",["$","span",null,{"className":"ribbon-detail","children":[" · ","Requests are not sent"]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"container","children":[["$","div",null,{"className":"footer-main","children":[["$","div",null,{"children":[["$","$L8",null,{"className":"footer-wordmark","href":"/en/","children":["$","img",null,{"className":"footer-logo","src":"/media/originals/logo-original.png","alt":"TehSnab — hydraulic systems","width":300,"height":100,"loading":"lazy"}]}],["$","p",null,{"className":"footer-demo","children":"Demonstration website. The form prepares a request only in this tab and does not send data to the company."}]]}],["$","div",null,{"className":"footer-links","children":[["$","$L8","/services/",{"href":"/en/services/","children":"Services"}],["$","$L8","/catalog/",{"href":"/en/catalog/","children":"Components"}],["$","$L8","/projects/",{"href":"/en/projects/","children":"Projects"}],["$","$L8","/production/",{"href":"/en/production/","children":"Production"}],["$","$L8","/contacts/",{"href":"/en/contacts/","children":"Contacts"}]]}],["$","div",null,{"className":"footer-links","children":[["$","$L8","/company/",{"href":"/en/company/","children":"Company"}],["$","$L8","/documents/",{"href":"/en/documents/","children":"Documents"}],["$","$L8","/technical/",{"href":"/en/technical/","children":"Technical reference"}],["$","$L8","/news/",{"href":"/en/news/","children":"News"}],["$","$L8","/terms/",{"href":"/en/terms/","children":"Working terms"}]]}],["$","div",null,{"className":"footer-contact","children":[["$","a",null,{"href":"tel:+73433710655","children":"+7 (343) 371-06-55"}],["$","a",null,{"href":"mailto:info@hydro-ts.ru","children":"info@hydro-ts.ru"}],["$","p",null,{"children":"20 Sovkhoznaya Street, Yekaterinburg"}],["$","$Lf",null,{"locale":"en"}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","span",null,{"children":"Independent concept · demonstration website"}],["$","span",null,{"children":"Source materials: hydro-ts.ru · unofficial proposal"}]]}]]}]}]]}]}]}]]}],"p":"$@10","v":null,"s":"$b"},"c":"$Q11"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","main",null,{"className":"entry-page","children":[["$","span",null,{"className":"eyebrow accent","children":"404 · LOCAL DEMO"}],["$","h1",null,{"children":["Страница не найдена",["$","br",null,{}],["$","span",null,{"lang":"en","children":"Page not found"}]]}],["$","p",null,{"children":["Выберите язык и найдите нужный раздел.",["$","br",null,{}],["$","span",null,{"lang":"en","children":"Choose a language and find the section you need."}]]}],["$","div",null,{"className":"button-row","children":[["$","$L8",null,{"className":"button","href":"/ru/","children":"Русский →"}],["$","$L8",null,{"className":"button outline","href":"/en/","children":"English →"}]]}]]}],[]]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Page not found · ТехСнаб"}],["$","meta","1",{"name":"description","content":"Demonstration website. The form prepares a request only in this tab and does not send data to the company."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@1c","v":null,"s":"$b"}},"a":"$@1d","u":"$@1e","b":"_p-bxeSt3cFebr0fldOeX"}
+16:null
+b:300
+1e:true
+b:C
+1d:0
+12:"$undefined"
+10:"$undefined"
+9:"$undefined"
+1c:"$undefined"
+17:"$undefined"
