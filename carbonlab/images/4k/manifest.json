@@ -1,0 +1,161 @@
+{
+  "provenance": "AI reconstruction of supplied concept images, followed by Lanczos resampling. 4K describes delivered pixel dimensions, not native captured detail. Illustrative, not authentic workshop or customer photographs.",
+  "images": [
+    {
+      "name": "hero_engine",
+      "source": "assets/visuals-v2/hero_engine.png",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "files": [
+        {
+          "filename": "hero_engine-768.webp",
+          "width": 768,
+          "height": 432,
+          "bytes": 71414
+        },
+        {
+          "filename": "hero_engine-1536.webp",
+          "width": 1536,
+          "height": 864,
+          "bytes": 175296
+        },
+        {
+          "filename": "hero_engine-3840.webp",
+          "width": 3840,
+          "height": 2160,
+          "bytes": 599656
+        }
+      ]
+    },
+    {
+      "name": "workshop",
+      "source": "assets/visuals-v2/workshop.png",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "files": [
+        {
+          "filename": "workshop-768.webp",
+          "width": 768,
+          "height": 432,
+          "bytes": 86654
+        },
+        {
+          "filename": "workshop-1536.webp",
+          "width": 1536,
+          "height": 864,
+          "bytes": 246372
+        },
+        {
+          "filename": "workshop-3840.webp",
+          "width": 3840,
+          "height": 2160,
+          "bytes": 844660
+        }
+      ]
+    },
+    {
+      "name": "intake",
+      "source": "assets/visuals-v2/intake.png",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "files": [
+        {
+          "filename": "intake-768.webp",
+          "width": 768,
+          "height": 432,
+          "bytes": 63328
+        },
+        {
+          "filename": "intake-1536.webp",
+          "width": 1536,
+          "height": 864,
+          "bytes": 187414
+        },
+        {
+          "filename": "intake-3840.webp",
+          "width": 3840,
+          "height": 2160,
+          "bytes": 706036
+        }
+      ]
+    },
+    {
+      "name": "valves",
+      "source": "assets/visuals-v2/valves.png",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "files": [
+        {
+          "filename": "valves-768.webp",
+          "width": 768,
+          "height": 432,
+          "bytes": 48494
+        },
+        {
+          "filename": "valves-1536.webp",
+          "width": 1536,
+          "height": 864,
+          "bytes": 145940
+        },
+        {
+          "filename": "valves-3840.webp",
+          "width": 3840,
+          "height": 2160,
+          "bytes": 586632
+        }
+      ]
+    },
+    {
+      "name": "egr",
+      "source": "assets/visuals-v2/egr.png",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "files": [
+        {
+          "filename": "egr-768.webp",
+          "width": 768,
+          "height": 432,
+          "bytes": 69548
+        },
+        {
+          "filename": "egr-1536.webp",
+          "width": 1536,
+          "height": 864,
+          "bytes": 196338
+        },
+        {
+          "filename": "egr-3840.webp",
+          "width": 3840,
+          "height": 2160,
+          "bytes": 735870
+        }
+      ]
+    },
+    {
+      "name": "suspension",
+      "source": "assets/visuals-v2/suspension.png",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "files": [
+        {
+          "filename": "suspension-768.webp",
+          "width": 768,
+          "height": 432,
+          "bytes": 68060
+        },
+        {
+          "filename": "suspension-1536.webp",
+          "width": 1536,
+          "height": 864,
+          "bytes": 189036
+        },
+        {
+          "filename": "suspension-3840.webp",
+          "width": 3840,
+          "height": 2160,
+          "bytes": 683894
+        }
+      ]
+    }
+  ]
+}

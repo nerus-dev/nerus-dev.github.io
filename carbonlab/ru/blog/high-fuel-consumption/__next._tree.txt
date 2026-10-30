@@ -1,0 +1,5 @@
+:HL["/carbonlab/_next/static/chunks/2zi9tmyvhgfm6.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"path","t":"oc","k":"blog/high-fuel-consumption","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"ru","s":[]},"h":196720,"c":"$Q2"}]]
+0:{"b":"PJVHfSNVFoXF0S3W6dJV6","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
